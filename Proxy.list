@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,followme.com
 DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,supes.top
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
