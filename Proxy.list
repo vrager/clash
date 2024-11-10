@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,supes.top
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,macwk.cn
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
