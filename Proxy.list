@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,macwk.cn
 DOMAIN-SUFFIX,cmliussss.com
+DOMAIN-SUFFIX,qichiyu.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
