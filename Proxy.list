@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,macwk.cn
 DOMAIN-SUFFIX,cmliussss.com
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,mudvod1.tv
-DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,hongxingdl.love
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
